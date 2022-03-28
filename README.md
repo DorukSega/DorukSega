@@ -1,5 +1,0 @@
-```BASIC
-10 PRINT "Hi!"
-20 GOTO 10
-RUN
-```
